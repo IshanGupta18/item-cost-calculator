@@ -1,0 +1,33 @@
+body{
+    background-color: #FFF9DE;
+}
+
+
+.main{
+    /* display: inline-block; */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: #FF6969;
+    font-weight: 600;
+}
+
+
+.nav{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 38%;
+    padding-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #A6D0DD;
+}
+
+
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+}
+
